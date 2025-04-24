@@ -1,0 +1,13 @@
+mehmetKarahanli,Baron
+lazZiya,KonseyUyesi
+husrevAga,KonseyUyesi
+kilic,KonseyUyesi
+testereNecmi,KonseyUyesi
+samuelVanunu,KonseyUyesi
+nizamettinGuvenc,KonseyUyesi
+tombalaciMehmet,KonseyUyesi
+deveTuncay,Gumrukcu
+iplikciNedim,ParaBabasi
+sevko,IstanbulSefiri
+cakir,Tetikci
+abuzerKomurcu,Profesor
